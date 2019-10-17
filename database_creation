@@ -2,3 +2,7 @@ commend for sql db and table creation
 create database vicky;
 create table login(username varchar(20)),pass varchar(29));
 insert into login values('vicky','passwd');
+
+after create table select and show tables
+SELECT * FROM tablename;
+ex Select * from login1;
