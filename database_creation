@@ -1,0 +1,4 @@
+commend for sql db and table creation
+create database vicky;
+create table login(username varchar(20)),pass varchar(29));
+insert into login values('vicky','passwd');
